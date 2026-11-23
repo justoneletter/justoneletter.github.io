@@ -1,0 +1,38 @@
+# Just One Letter
+
+> Just One Letter is an independent creative studio founded by Christopher Mosley. It makes apps and ideas that help people pray, reflect, and reconnect. The studio website is https://just1letter.com. Two iOS apps are on the App Store today: Metanoia Prayer, a quiet Christian place to pray and begin again, and First Love: Jesus First, a Jesus-first spiritual formation app for relationships. First Love is not a dating app and is not therapy.
+
+Just One Letter began with a change in Christopher's own name: Chris + t = Christ. The "t" points to the cross, and Christopher means "bearer of Christ." Faith is at the center of the work, with care in the details.
+
+Prayer, journaling, and reflections in both apps stay on the device. Neither app requires an account or sign-in. The App Store privacy labels state that neither app collects data. Core prayer and reflection practices stay free. Optional paid layers are available through Apple In-App Purchase. Prices may vary by region. There is no Android app at this time.
+
+Stillpoint Reflection and Together are taking shape and are not released. Canticle is a worship lyric display in build now and is not yet released.
+
+Questions, ideas, or a note to say hello are welcome at hello@just1letter.com.
+
+## Apps
+
+- [Metanoia Prayer on the App Store](https://apps.apple.com/us/app/metanoia-prayer/id6791059834): A quiet Christian iOS app to pray, reflect, and begin again. Not a streak and not a score. A practice of returning. Includes Today's Anchor (a verse and a short reflection for the day), Prayer Moments (five gentle invitations across the day, shaped by your schedule), guided prayer (Structured Prayer walks through Praise, Repent, Ask, and Yield; Contemplative Prayer moves through Arrive, Notice, Offer, and Receive; Return to Sender helps you release what you were carrying; a silent sit is there too), and a private on-device journal. Prayer stays free. Digital Metanoia is an optional Apple In-App Purchase (Monthly $4.99, Yearly $29.99, or Lifetime $59.99, USD as listed). Requires iOS 16.6 or later. Bundle ID: com.metanoia.prayer. Published by Christopher Mosley.
+
+- [First Love: Jesus First on the App Store](https://apps.apple.com/us/app/first-love-jesus-first/id6810749214): A Jesus-first iOS app that helps Christians return to Jesus as first love, so earthly relationships can be honest and lasting. Not a dating app, and not therapy. Includes Daily Anchors in Scripture, Guided Settling Paths, Thought Screen for structured local reflection, and a private on-device journal. Everyone gets Daily Anchors, core teaching, 3 Thought Screens a week, and the first 3 steps of each path. First Love+ is an optional subscription that opens every path and unlimited Thought Screens (Monthly $9.99, or Yearly $69.99 with a 7-day free trial for eligible new subscribers, USD as listed). Requires iOS 15.0 or later. Bundle ID: com.srndr.firstlove. Published by Christopher Mosley.
+
+- [Christopher Mosley on the App Store](https://apps.apple.com/us/developer/christopher-mosley/id6791059836): The developer page for both live apps.
+
+## Website
+
+- [Just One Letter](https://just1letter.com/): Studio home. The story behind the name, the apps, and a way to say hello.
+- [Projects](https://just1letter.com/projects): Work in progress from the same studio behind the apps.
+- [Canticle](https://just1letter.com/canticle): A worship lyric display in build now, not yet released. Built so a small church can present lyrics in time with the song, full screen or to a projector, without someone driving the slides. It also shows key and tempo for the people leading worship. Audio is processed on the computer and is never uploaded.
+- [FAQ](https://just1letter.com/faq): Short answers to common questions about the studio and the apps.
+
+## Support and privacy
+
+- [Metanoia Support](https://justoneletter.github.io/): How to get help, what stays free, and how to manage Digital Metanoia. Support: hello@just1letter.com.
+- [Metanoia Privacy Policy](https://justoneletter.github.io/privacy.html): Journal entries and prayer preferences stay on the device. There is no Metanoia cloud journal.
+- [First Love Support](https://justoneletter.github.io/first-love-support.html): Help for First Love: Jesus First, including how to manage First Love+ and restore purchases. Support: hello@just1letter.com.
+- [First Love Privacy Policy](https://justoneletter.github.io/first-love-privacy.html): Local-only. No account. Journal entries and reflections stay on the device.
+- [Apple Standard EULA](https://www.apple.com/legal/internet-services/itunes/dev/stdeula/): Terms of Use for both apps.
+
+## Optional
+
+- [justoneletter.github.io](https://github.com/justoneletter/justoneletter.github.io): GitHub repository that holds the studio site (in the studio folder) along with app support and privacy pages.
